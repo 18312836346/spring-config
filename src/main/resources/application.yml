@@ -1,0 +1,12 @@
+#服务器配置
+#server:
+ # port: 8090
+
+
+
+#book的属性值
+#book:
+ #   name: 西游记
+  #  author: 罗贯中
+   #   price: 70
+
